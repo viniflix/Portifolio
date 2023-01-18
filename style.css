@@ -40135,7 +40135,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-1 {
     margin-top: 0;
-    margin-left: -28px;
   }
 
   .u-header .u-social-icons-1 {
@@ -40145,13 +40144,17 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-menu-1 {
     margin-top: -26px;
-    margin-right: -14px;
+    margin-right: 0;
     margin-bottom: 36px;
   }
 }
 @media (max-width: 575px) {
-  .u-header .u-image-1 {
-    margin-left: -33px;
+  .u-header .u-social-icons-1 {
+    margin-right: 46px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-right: 9px;
   }
 }
  .u-footer {
